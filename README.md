@@ -1,15 +1,4 @@
-# JavaFx-Games
+# JavaFx-Games-Ball-V-Ball
 
-Personal Note: This repo contains some of the games that I have self practiced/made using JavaFx during my Advance Object Oriented Course.
-
-What is JavaFx ?
-
-
-JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.
-
-Link to Documentation: https://openjfx.io/javadoc/16/
-
-List of Content:
-----------------
-
-1) Word Guessing Game
+This game just asks you to guess a word that has been converted to numbers, when you type in the word it moves on to the next word until the array words reaches its end.
+Once done it shows a pop-up message on clicking okay the game terminates.
