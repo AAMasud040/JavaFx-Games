@@ -1,4 +1,4 @@
-# JavaFx-Games
+# JavaFx-Games-Sprites
 
 This Code mainly contains Motion Picture animation, pictures by Eadweard Muybridge ( https://commons.wikimedia.org/wiki/Eadweard_Muybridge ). The Dimensions and Timing of the animation can be modified I have provided 2 Still Image files as sprites here, you can add more if u modify the codes.
 
@@ -71,27 +71,19 @@ col->0      1     2
 
       -------------------
       
-      
       |  1  |  2  |  3  | ----------> row 0
       
-      
       -------------------
-      
-      
+            
       |  4  |  5  |  6  | ----------> row 1
-      
-      
+            
       -------------------
       
-      
-              ...
+              ...              
               
-              
-      -------------------
-      
+      -------------------      
       
       |  10  |  11  |  12  | ----------> row 3
-      
       
       -------------------
       
