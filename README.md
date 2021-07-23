@@ -28,25 +28,71 @@ is the division of index by columns without rest, i.e. index / columns and (inde
 
 Examples for columns = 3
 index   |   Column     |    row
+
+
 index   |   index % 3  |   index / 3
+
+
 --------------------------------------
+
+
   0     |     0        |     0
+  
+  
   1     |     1        |     0
+  
+  
   2     |     2        |     0
+  
+  
   3     |     0        |     1
+  
+  
   4     |     1        |     1
+  
+  
   5     |     2        |     1
+  
+  
   6     |     0        |     2
+  
+  
              ...
+             
+             
  10    |    0         |     3
+ 
+ 
 This way you iterate through sprites in the following order
+
+
 col->0      1     2
+
+
       -------------------
+      
+      
       |  1  |  2  |  3  | ----------> row 0
+      
+      
       -------------------
+      
+      
       |  4  |  5  |  6  | ----------> row 1
+      
+      
       -------------------
+      
+      
               ...
+              
+              
       -------------------
+      
+      
       |  10  |  11  |  12  | ----------> row 3
+      
+      
       -------------------
+      
+      
